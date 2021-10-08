@@ -1,0 +1,1 @@
+from imgdup.client import ImgDupClient
